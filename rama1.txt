@@ -1,3 +1,7 @@
 Línea 1 rama 1
+<<<<<<< HEAD
 Línea nueva creada
 Segunda nueva línea creada
+=======
+Nueva Línea añadida
+>>>>>>> germanperez
